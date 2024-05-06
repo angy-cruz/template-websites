@@ -1,0 +1,10 @@
+<x-layouts.guest>
+    @include('partials._hero')
+    @include('partials._departments')
+    @include('partials._about')
+    @include('partials._testimonials')
+    @include('partials._contact')
+    @include('partials._sucursales')
+    @include('partials._hours')
+    @include('partials._faqs')
+</x-layouts.guest>
