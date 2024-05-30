@@ -18,14 +18,14 @@
                     <h3 class="font-extrabold">Sitemap</h3>
                     <ul class="grid gap-y-4 underline opacity-60">
                         <li class=""><a href="#hero">Home</a></li>
-                        <li><a href="#departamentos">Our services</a></li>
+                        <li><a href="#departments">Our services</a></li>
                         <li><a href="#about">About us</a></li>
                     </ul>
                 </div>
                 <div class="text-white opacity-60 flex flex-col justify-center">
                     <ul class="grid gap-y-4 underline">                       
-                        <li><a href="#contacto">Contact</a></li>
-                        <li><a href="#sucursales">Location</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#location">Location</a></li>
                     </ul>
                 </div>
             </div>
@@ -62,8 +62,8 @@
                 <div class="text-white opacity-60 flex flex-col justify-center">
                     <ul class="grid gap-y-4 underline">
                         <br class="hidden md:inline-block" />                        
-                        <li><a href="#contacto">Contacto</a></li>
-                        <li><a href="#sucursales">Ubicación</a></li>
+                        <li><a href="#contact">Contacto</a></li>
+                        <li><a href="#location">Ubicación</a></li>
                         <li><a href="#faqs">Preguntas frecuentes</a></li>
                     </ul>
                 </div>

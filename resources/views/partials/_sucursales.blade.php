@@ -1,5 +1,5 @@
 <!-- SUCURSAL MAPA -->
-<section id="sucursales" class="flex justify-center">
+<section id="location" class="flex justify-center">
     <div class="w-full md:w-9/12 flex flex-col md:flex-row justify-center py-16 gap-10">
         <h2 class="text-darkGray text-2xl text-center md:text-left md:text-5xl py-4 md:hidden font-bold">
             Visit us!
@@ -27,7 +27,7 @@
 </section>
 
 <!-- SUCURSALES CARDS -->
-<section id="sucursales" class="flex justify-center">
+<section id="location" class="flex justify-center">
     <div class="flex flex-col w-[90%] md:w-9/12 md:justify-center items-center max-w-[1000px]">
         <h2 class="font-bold text-center mb-10 text-2xl md:text-5xl">
             Nuestras sucursales

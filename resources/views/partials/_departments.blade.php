@@ -4,8 +4,7 @@
         <h2 class="font-bold text-center mb-14 text-2xl md:text-5xl">
             Our services
         </h2>
-        <div
-            class="flex flex-wrap justify-evenly md:justify-around gap-x-4 sm:gap-x-12 md:gap-x-20 gap-y-14 h-full w-full items-start">
+        <div class="flex flex-wrap justify-evenly md:justify-around gap-x-4 sm:gap-x-12 md:gap-x-20 gap-y-14 h-full w-full items-start">
 
             <!-- CARD 01 -->
 
@@ -33,8 +32,7 @@
 
             <div class="flex flex-col justify-center items-center text-center mb-4 max-w-32">
                 <div class="rounded-full w-32 h-32 flex justify-center items-center">
-                    <img src="img/departamentos/DD03s.png" alt="Fuel Injection Service"
-                        class="object-contain" />
+                    <img src="img/departamentos/DD03s.png" alt="Fuel Injection Service" class="object-contain" />
                 </div>
                 <div>
                     <h4 class="font-semibold mt-4">Fuel Injection Service</h4>
@@ -78,8 +76,7 @@
 
             <div class="flex flex-col justify-center items-center text-center mb-4 max-w-32">
                 <div class="rounded-full w-32 h-32 flex justify-center items-center">
-                    <img src="img/departamentos/DD07s.png" alt="A/C Service"
-                        class="object-contain" />
+                    <img src="img/departamentos/DD07s.png" alt="A/C Service" class="object-contain" />
                 </div>
                 <div>
                     <h4 class="font-semibold mt-4">A/C Service</h4>
@@ -123,8 +120,7 @@
 
             <div class="flex flex-col justify-center items-center text-center mb-4 max-w-32">
                 <div class="rounded-full w-32 h-32 flex justify-center items-center">
-                    <img src="img/departamentos/DD11s.png" alt="Tire Repair"
-                        class="object-contain" />
+                    <img src="img/departamentos/DD11s.png" alt="Tire Repair" class="object-contain" />
                 </div>
                 <div>
                     <h4 class="font-semibold mt-4">Tire Repair</h4>
@@ -168,8 +164,7 @@
 
             <div class="flex flex-col justify-center items-center text-center mb-4 max-w-32">
                 <div class="rounded-full w-32 h-32 flex justify-center items-center">
-                    <img src="img/departamentos/DD15s.png" alt="Car Battery"
-                        class="object-contain" />
+                    <img src="img/departamentos/DD15s.png" alt="Car Battery" class="object-contain" />
                 </div>
                 <div>
                     <h4 class="font-semibold mt-4">Car Battery</h4>
@@ -194,47 +189,45 @@
 
 <!-- DEPARTAMENTOS CARD-->
 <section id="departamentos" class="flex items-center flex-col w-full">
-    <!-- CARD 01 -->
+
     <div class="flex items-center flex-col w-full pt-16">
         <h2 class="font-extrabold text-3xl lg:text-5xl">Who we are</h2>
 
-        <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
-            <div class="md:h-64 min-w-32 w-full h-48">
-                <img src="./img/departamentos/DD01s.png" alt="Icon leaves"
-                    class="object-cover h-full w-full rounded-2xl" />
-            </div>
-            <div class="flex flex-col gap-6">
-                <h2 class="font-bold text-2xl md:text-4xl text-third text-center md:text-left">
-                Experienced and Creative Team Members
-                </h2>
-                <p class="text-darkGray">
-                    As a premier painting contractor, we are committed to delivering
-                    customer service that is second to none. We offer a wide range
-                    of services to meet your residential and commercial painting
-                    needs. Big job or small, we have you covered. We specialize
-                    in...
-                </p>
-                <ul class="list-disc list-inside">
-                    <li>Cleaning</li>
-                    <li>Pressure Washing</li>
-                    <li>Drywall Repairs</li>
-                    <li>Carpet Cleaning</li>
-                </ul>
-            </div>
+
+    </div>
+    <!-- CARD 01 -->
+    <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
+        <div class="md:h-64 min-w-32 w-full h-48">
+            <img src="./img/departamentos/DD01s.png" alt="Carpet & Upholstery Cleaning" class="object-cover h-full w-full rounded-2xl" />
+        </div>
+        <div class="flex flex-col gap-6">
+            <h2 class="font-bold text-2xl md:text-4xl text-third text-center md:text-left">
+            Carpet & Upholstery Cleaning
+            </h2>
+            <p class="text-darkGray">
+                As a premier painting contractor, we are committed to delivering
+                customer service that is second to none. We offer a wide range
+                of services to meet your residential and commercial painting
+                needs. Big job or small, we have you covered. We specialize
+                in...
+            </p>
+            <ul class="list-disc list-inside">
+                <li>Cleaning</li>
+                <li>Pressure Washing</li>
+                <li>Drywall Repairs</li>
+                <li>Carpet Cleaning</li>
+            </ul>
         </div>
     </div>
-
     <!-- CARD 02 -->
-    <div class="flex items-center flex-col w-full">
-        <div
-            class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">
+    <div class="flex items-center flex-col w-full bg-grayWhite">
+        <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">
             <div class="md:h-64 min-w-32 w-full">
-                <img src="./img/departamentos/DD02s.png" alt="Icon leaves"
-                    class="object-cover h-full w-full rounded-2xl" />
+                <img src="./img/departamentos/DD02s.png" alt="Cleaning & Maid Services" class="object-cover h-full w-full rounded-2xl" />
             </div>
             <div class="flex flex-col gap-6">
                 <h2 class="font-bold text-2xl md:text-4xl text-third text-center md:text-left">
-                    We Care About the Details
+                    Cleaning & Maid Services
                 </h2>
                 <p class="text-darkGray">
                     We strive to provide honest, reliable, residential and
@@ -250,12 +243,11 @@
     <div class="flex items-center flex-col w-full">
         <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
             <div class="md:h-64 min-w-32 w-full">
-                <img src="./img/departamentos/DD03s.png" alt="Icon leaves"
-                    class="object-cover h-full w-full rounded-2xl" />
+                <img src="./img/departamentos/DD03s.png" alt="Tile" class="object-cover h-full w-full rounded-2xl" />
             </div>
             <div class="flex flex-col gap-6">
                 <h2 class="font-bold text-2xl md:text-4xl text-third text-center md:text-left">
-                    Customer Satisfaction Guaranteed
+                Tile
                 </h2>
                 <p class="text-darkGray">
                     We work around your busy schedule, consult with you on all
@@ -267,11 +259,9 @@
     </div>
     <!-- CARD 04 -->
     <div class="flex items-center flex-col w-full">
-        <div
-            class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">
+        <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">
             <div class="md:h-64 min-w-32 w-full">
-                <img src="./img/departamentos/DD04s.png" alt="Icon leaves"
-                    class="object-cover h-full w-full rounded-2xl" />
+                <img src="./img/departamentos/DD04s.png" alt="We Care About the Details" class="object-cover h-full w-full rounded-2xl" />
             </div>
             <div class="flex flex-col gap-6">
                 <h2 class="font-bold text-2xl md:text-4xl text-third text-center md:text-left">
@@ -291,8 +281,7 @@
     <div class="flex items-center flex-col w-full">
         <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
             <div class="md:h-64 min-w-32 w-full">
-                <img src="./img/departamentos/DD05s.png" alt="Icon leaves"
-                    class="object-cover h-full w-full rounded-2xl" />
+                <img src="./img/departamentos/DD05s.png" alt="Customer Satisfaction Guaranteed" class="object-cover h-full w-full rounded-2xl" />
             </div>
             <div class="flex flex-col gap-6">
                 <h2 class="font-bold text-2xl md:text-4xl text-third text-center md:text-left">

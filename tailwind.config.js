@@ -34,7 +34,7 @@ export default {
         mediumGray: "#292D32",
         neutralGray: "#666666",
         lightGray: "#D2D2D2",
-        grayWhithe: "#F0F0F0",
+        grayWhite: "#F0F0F0",
         navGray: "#797C94",
       },
       height: {

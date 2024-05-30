@@ -1,5 +1,5 @@
 <!-- TESTIMONIOS CON CUADRO -->
-<section class="flex items-center py-16 flex-col bg-primary">
+<section id="reviews" class="flex items-center py-16 flex-col bg-primary">
     <div class="w-[90%] md:w-full flex flex-col items-center max-w-[1000px] text-white">
         <h2 class="font-bold text-center text-2xl md:text-5xl">
             Some of our reviews
@@ -77,7 +77,7 @@
 </section>
 
 <!-- TESTIMONIOS CON CUADRO Y ESTRELLAS -->
-<section class="flex items-center py-16 flex-col bg-primary">
+<section id="reviews" class="flex items-center py-16 flex-col bg-primary">
     <div class="w-[90%] md:w-full flex flex-col items-center max-w-[1000px] text-white">
         <h2 class="font-bold text-center text-2xl md:text-5xl">
         Lo que piensan nuestros clientes
@@ -166,7 +166,7 @@
 </section>
 
 <!-- TESTIMONIOS SIN CUADRO -->
-<section class="flex items-center py-16 flex-col">
+<section id="reviews" class="flex items-center py-16 flex-col">
     <div class="w-[90%] md:w-full flex flex-col items-center max-w-[1000px]">
         <h2 class="font-bold text-center text-2xl md:text-5xl">
             Some of our reviews

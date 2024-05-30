@@ -1,5 +1,5 @@
 <!-- CONTACTO -->
-<section id="contacto" class="flex justify-center bg-white">
+<section id="contact" class="flex justify-center bg-white">
     <div class="flex flex-col pb-0 pt-20 md:py-20 w-[90%] md:w-9/12 gap-8 text-mediumGray max-w-[600px]">
         <div class="flex flex-col gap-8 items-center">
             <h2 class="text-2xl text-center md:text-4xl font-extrabold">

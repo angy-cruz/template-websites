@@ -10,16 +10,16 @@
                 <a href="#hero" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
                     Home
                 </a>
-                <a href="#departamentos" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6 text-nowrap">
+                <a href="#departments" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6 text-nowrap">
                     Our services
                 </a>
                 <a href="#about" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6 text-nowrap">
                     About us
                 </a>
-                <a href="#contacto" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
+                <a href="#contact" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
                     Contact
                 </a>
-                <a href="#sucursales" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
+                <a href="#location" class="cursor-pointer py-1 px-2 hover:text-primary hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
                     Location
                 </a>
             </div>
@@ -53,10 +53,10 @@
                 <a href="#about" class="cursor-pointer py-1 px-2 hover:text-secondary hover:decoration-primary hover:font-bold hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-2">
                     About Us
                 </a>
-                <a href="#contacto" class="cursor-pointer py-1 px-2 hover:text-secondary hover:decoration-primary hover:font-bold hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
+                <a href="#contact" class="cursor-pointer py-1 px-2 hover:text-secondary hover:decoration-primary hover:font-bold hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
                     Contact
                 </a>
-                <a href="#sucursales" class="cursor-pointer py-1 px-2 hover:text-secondary hover:decoration-primary hover:font-bold hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
+                <a href="#location" class="cursor-pointer py-1 px-2 hover:text-secondary hover:decoration-primary hover:font-bold hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
                     Location
                 </a>
                 <a href="#faqs" class="cursor-pointer py-1 px-2 hover:text-secondary hover:decoration-primary hover:font-bold hover:underline hover:underline-offset-4 hover:decoration-2 transition-all ease-in leading-6">
@@ -102,19 +102,19 @@
                         <a href="#hero" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
                             Home
                         </a>
-                        <a href="#departamentos" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
+                        <a href="#departments" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
                             Our services
                         </a>
                         <a href="#about" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
                             About us
                         </a>
-                        <a href="#contacto" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
+                        <a href="#contact" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
                             Contact
                         </a>
-                        <a href="#horarios" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
+                        <a href="#hours" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
                             Hours
                         </a>
-                        <a href="#sucursales" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
+                        <a href="#location" class="flex py-3 px-6 justify-center items-center self-stretch hover:bg-primary transition-all ease-in hover:bg-opacity-50">
                             Locations
                         </a>
                     </div>
