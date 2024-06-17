@@ -1,5 +1,5 @@
 <!-- DEPARTAMENTOS CÍRCULO -->
-<section id="departamentos" class="flex justify-center bg-secondary text-white">
+<section id="departments" class="flex justify-center bg-secondary text-white">
     <div class="flex flex-col items-center w-[90%] md:w-9/12 py-16 max-w-[1000px]">
         <h2 class="font-bold text-center mb-14 text-2xl md:text-5xl">
             Our services
@@ -188,7 +188,7 @@
 
 
 <!-- DEPARTAMENTOS CARD-->
-<section id="departamentos" class="flex items-center flex-col w-full">
+<section id="departments" class="flex items-center flex-col w-full">
 
     <div class="flex items-center flex-col w-full pt-16">
         <h2 class="font-extrabold text-3xl lg:text-5xl">Who we are</h2>

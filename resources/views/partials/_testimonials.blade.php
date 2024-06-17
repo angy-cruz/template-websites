@@ -10,7 +10,7 @@
 
             <!-- CARD 01 -->
 
-            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6">
+            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6 shadow-xl">
                 <div class="flex flex-col items-center gap-4">
                     <div class="h-32 w-32 rounded-full hidden md:inline-block">
                         <img src="./img/review/RR01s.png" alt="Ernie Coronado" class="object-cover" />
@@ -31,10 +31,10 @@
 
             <!-- CARD 02 -->
 
-            <div class="flex flex-row gap-4 sm:flex-wrap items-center justify-center w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6">
+            <div class="flex flex-row gap-4 sm:flex-wrap items-center justify-center w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6 shadow-xl">
                 <div class="flex flex-col items-center gap-4 w-full">
                     <div class="h-32 w-32 rounded-full hidden md:inline-block">
-                        <img src="./img/review/RR02s.png" alt="Amy Doyle" class="object-coverl" />
+                        <img src="./img/review/RR02s.png" alt="Amy Doyle" class="object-cover" />
                     </div>
 
                     <div class="flex flex-col items-center text-center gap-4">
@@ -51,7 +51,7 @@
 
             <!-- CARD 03 -->
 
-            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6">
+            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6 shadow-xl">
                 <div class="flex flex-col items-center gap-4">
                     <div class="h-32 w-32 rounded-full hidden md:inline-block">
                         <img src="./img/review/RR03s.png" alt="James Jackson" class="object-cover" />
@@ -88,7 +88,7 @@
 
             <!-- CARD 01 -->
 
-            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6">
+            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6 shadow-xl">
                 <div class="flex flex-col items-center gap-4">
                     <div class="h-32 w-32 rounded-full hidden">
                         <img src="./img/review/RR01s.png" alt="Maria V." class="object-cover" />
@@ -112,10 +112,10 @@
 
             <!-- CARD 02 -->
 
-            <div class="flex flex-row gap-4 sm:flex-wrap items-center justify-center w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6">
+            <div class="flex flex-row gap-4 sm:flex-wrap items-center justify-center w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6 shadow-xl">
                 <div class="flex flex-col items-center gap-4 w-full">
                     <div class="h-32 w-32 rounded-full hidden">
-                        <img src="./img/review/RR02s.png" alt="Kamila O." class="object-coverl" />
+                        <img src="./img/review/RR02s.png" alt="Kamila O." class="object-cover" />
                     </div>
 
                     <div class="flex flex-col items-center text-center gap-4">
@@ -136,7 +136,7 @@
 
             <!-- CARD 03 -->
 
-            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6">
+            <div class="w-full md:w-[30%] min-w-[280px] bg-white rounded-3xl p-6 shadow-xl">
                 <div class="flex flex-col items-center gap-4">
                     <div class="h-32 w-32 rounded-full hidden">
                         <img src="./img/review/RR03s.png" alt="Van T." class="object-cover" />
