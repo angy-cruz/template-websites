@@ -7,6 +7,7 @@
     "require": {
         "php": "^8.3",
         "anhskohbo/no-captcha": "^3.6",
+        "aryehraber/statamic-captcha": "^1.12",
         "guzzlehttp/guzzle": "^7.8.1",
         "laravel/framework": "^10.48.9",
         "laravel/sanctum": "^3.3.3",

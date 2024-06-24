@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "474def0b12d1d881ea1168d335d6ebf3",
+    "content-hash": "62ac3178cbd88941f420b6af09f98644",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -132,6 +132,75 @@
                 "source": "https://github.com/anhskohbo/no-captcha/tree/3.6.0"
             },
             "time": "2024-03-13T02:22:17+00:00"
+        },
+        {
+            "name": "aryehraber/statamic-captcha",
+            "version": "v1.12.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aryehraber/statamic-captcha.git",
+                "reference": "81c7295a231080cd49edce54f500409b3bd9b26c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aryehraber/statamic-captcha/zipball/81c7295a231080cd49edce54f500409b3bd9b26c",
+                "reference": "81c7295a231080cd49edce54f500409b3bd9b26c",
+                "shasum": ""
+            },
+            "require": {
+                "statamic/cms": "^3.0 || ^4.0 || ^5.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Captcha",
+                    "slug": "captcha",
+                    "description": "Protect your Statamic forms using a Captcha service",
+                    "version": "1.10.0"
+                },
+                "laravel": {
+                    "providers": [
+                        "AryehRaber\\Captcha\\CaptchaServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AryehRaber\\Captcha\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Aryeh Raber",
+                    "email": "aryeh.raber@gmail.com",
+                    "homepage": "https://aryeh.dev",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Protect your Statamic forms using a Captcha service",
+            "homepage": "https://github.com/aryehraber/statamic-captcha",
+            "keywords": [
+                "Forms",
+                "captcha",
+                "hcaptcha",
+                "recaptcha",
+                "statamic"
+            ],
+            "support": {
+                "issues": "https://github.com/aryehraber/statamic-captcha/issues",
+                "source": "https://github.com/aryehraber/statamic-captcha/tree/v1.12.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/aryehraber",
+                    "type": "github"
+                }
+            ],
+            "time": "2024-06-18T06:55:58+00:00"
         },
         {
             "name": "brick/math",
@@ -4539,16 +4608,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v4.57.2",
+            "version": "v4.58.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "49e0ce42f53f7ddf030c34519c078dc085e7829b"
+                "reference": "7cbc505da6c7f2f9568599631b607aa427d5cc62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/49e0ce42f53f7ddf030c34519c078dc085e7829b",
-                "reference": "49e0ce42f53f7ddf030c34519c078dc085e7829b",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/7cbc505da6c7f2f9568599631b607aa427d5cc62",
+                "reference": "7cbc505da6c7f2f9568599631b607aa427d5cc62",
                 "shasum": ""
             },
             "require": {
@@ -4631,7 +4700,7 @@
             ],
             "support": {
                 "issues": "https://github.com/statamic/cms/issues",
-                "source": "https://github.com/statamic/cms/tree/v4.57.2"
+                "source": "https://github.com/statamic/cms/tree/v4.58.2"
             },
             "funding": [
                 {
@@ -4639,7 +4708,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-04-23T19:39:42+00:00"
+            "time": "2024-05-09T15:02:48+00:00"
         },
         {
             "name": "statamic/stringy",
