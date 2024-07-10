@@ -99,7 +99,7 @@
                             <strong>"</strong>The best food and service ever. Excellent attention and family atmosphere. The food is spectacular, the grill is exquisite and the soup on Sundays is out of the question. I go every weekend because I can't get enough of this magnificent place.<strong>"</strong>
                         </p>
                         <h4 class="font-semibold text-mediumGray">Maria V.</h4>
-                        <div class="text-[#FE860E] text-2xl flex gap-2">
+                        <div class="text-[#FFC130] text-2xl flex gap-2">
                             <p>&#9733;</p>
                             <p>&#9733;</p>
                             <p>&#9733;</p>
@@ -123,7 +123,7 @@
                             <strong>"</strong>Run don’t walk to this place. It is a hidden gem. The food and service were phenomenal. I am from Chicago and know what good food is and Chicago is missing a place like this. I savored every bite of my meal. I was so impressed with the how friendly the staff were. The atmosphere was nice and relaxed I really enjoyed the vibe. They are very reasonably priced.<strong>"</strong>
                         </p>
                         <h4 class="font-semibold text-mediumGray">Kamila O.</h4>
-                        <div class="text-[#FE860E] text-2xl flex gap-2">
+                        <div class="text-[#FFC130] text-2xl flex gap-2">
                             <p>&#9733;</p>
                             <p>&#9733;</p>
                             <p>&#9733;</p>
@@ -147,7 +147,7 @@
                             <strong>"</strong>We love it!! The food is bomb. The service is great. And the environment is very chilling. MUST TRY: the sugarcane lime drink, Capacha and Parrila!! We cannot recommend it enough! Please have a visit and support local business!<strong>"</strong>
                         </p>
                         <h4 class="font-semibold text-mediumGray">Van T.</h4>
-                        <div class="text-[#FE860E] text-2xl flex gap-2">
+                        <div class="text-[#FFC130] text-2xl flex gap-2">
                             <p>&#9733;</p>
                             <p>&#9733;</p>
                             <p>&#9733;</p>
