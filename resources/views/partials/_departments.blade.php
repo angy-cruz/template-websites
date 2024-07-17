@@ -196,7 +196,8 @@
 
     </div>
     <!-- CARD 01 -->
-    <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
+     <div class="flex items-center flex-col w-full bg-grayWhite">
+        <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
         <div class="md:h-64 min-w-32 w-full h-48">
             <img src="./img/departamentos/DD01s.png" alt="Carpet & Upholstery Cleaning" class="object-cover h-full w-full rounded-2xl" />
         </div>
@@ -219,6 +220,8 @@
             </ul>
         </div>
     </div>
+     </div>
+    
     <!-- CARD 02 -->
     <div class="flex items-center flex-col w-full bg-grayWhite">
         <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">

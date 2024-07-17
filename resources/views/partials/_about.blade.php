@@ -61,21 +61,17 @@
                 <div class="flex flex-col gap-4">
                     <div class="text-neutralGray flex flex-col gap-4 items-left text-center md:text-left">
                         <p>
-                            Matn Contractors LLC is a reputable commercial roofing contractor with a proven track record
-                            of excellence.
-                        </p>
-                        <p>
-                            With over 25 years of experience, we specialize in roofing, siding, and sheet metal work,
-                            serving clients in the construction industry.
-                        </p>
-                        <p>
-                            We take pride in our work and strive to exceed our clients' expectations on every project.
+                            Gonzalez Masonry LLC is a premier general contractor serving the Mission, TX area, specializing in top-notch masonry services.
+                            <br><br>
+                            Our team of skilled craftsmen is dedicated to delivering exceptional quality and precision in every project. From residential to commercial masonry work, we pride ourselves on our attention to detail and commitment to customer satisfaction.
+                            <br><br>
+                            Whether you're looking to enhance your home's exterior, build a beautiful stone patio, or construct a durable retaining wall, Gonzalez Masonry LLC is your trusted partner for all your masonry needs.
                         </p>
                     </div>
                 </div>
             </div>
-            <div class="w-1/2 h-128 rounded-3xl font-normal hidden md:inline-block">
-                <img src="img/about-us.png" alt="Fotografía de sucursal" class="object-cover min-h-[500px]" />
+            <div class="w-1/2 font-normal hidden md:inline-block">
+                <img src="img/about-us.png" alt="Fotografía de sucursal" class="object-cover min-h-[500px] h-full" />
             </div>
         </div>
     </div>

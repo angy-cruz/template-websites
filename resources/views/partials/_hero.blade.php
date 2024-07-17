@@ -109,24 +109,23 @@
 
 
 <!-- HERO NO SPLIT -->
-<section id="hero"
-    class="text-center flex flex-col md:flex-row items-center justify-center h-[550px] mt-[100px] md:mt-0 bg-hero-mobile md:bg-hero-desktop bg-center bg-cover bg-no-repeat">
-    <div class="flex flex-col justify-center items-center w-[80%] md:w-1/2 h-[70%] md:pt-24 md:h-full">
-        <div class="bg-white flex items-center p-6 flex-col gap-4 w-10/12 md:w-2/3">
+<section id="hero" class="text-center flex flex-col md:flex-row items-center justify-center h-[550px] mt-[100px] md:mt-16 bg-hero-mobile md:bg-hero-desktop bg-center bg-cover bg-no-repeat">
+    <div class="flex flex-col justify-center items-center w-[80%] md:w-2/3 h-[70%] md:pt-20 md:h-full">
+        <div class="bg-white flex items-center p-6 flex-col gap-4 w-10/12">
             <div class="w-full md:w-2/3 max-w-48">
                 <img src="./img/logos/logo-full.png" alt="Logo" class="w-full object-contain h-full" />
             </div>
             <div class="w-full flex flex-col items-center">
                 <div class="mb-6 w-full">
-                    <h1 class="font-bold text-3xl leading-10">
-                        Design, Build, Impress
+                    <h1 class="font-extrabold text-3xl leading-10">
+                        Quality Craftsmanship
                     </h1>
+                    <p>Building Your Vision in Stone</p>
                 </div>
                 <div class="flex flex-row items-center justify-center w-full">
-                    <button type="submit"
-                        class="bg-primary text-white py-2 px-4 font-semibold text-lg flex gap-2 items-center justify-center w-full transition-all ease-in max-w-60 hover:bg-darkGray focus:ring-4 focus:bg-darkGray focus:ring-darkGray/50 active:bg-primary active:ring-4 active:ring-primary/50 disabled:bg-opacity-50">
-                        Contact us
-                    </button>
+                    <a href="#contact" class="bg-primary text-white py-2 px-4 font-semibold text-lg flex gap-2 items-center justify-center w-full transition-all ease-in max-w-60 hover:bg-darkGray focus:ring-4 focus:bg-darkGray focus:ring-darkGray/50 active:bg-primary active:ring-4 active:ring-primary/50 disabled:bg-opacity-50 rounded-full">
+                        Get a Quote!
+                    </a>
                 </div>
             </div>
         </div>
