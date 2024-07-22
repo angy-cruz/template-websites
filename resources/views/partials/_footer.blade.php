@@ -9,9 +9,9 @@
                             class="object-contain h-full w-full" />
                     </div>
                     <div class="text-white opacity-50 text-5xl flex flex-row justify-evenly mb-6 md:mb-0 gap-8">
-                        <a href=""><img src="./img/icons/facebook-w.png" alt="Icon facebook" /></a>
+                        <a href="" target="_blank"><img src="./img/icons/facebook-w.png" alt="Icon facebook" /></a>
                         <a href=""><img src="./img/icons/whatsapp-w.png" alt="Icon WhatsApp" /></a>
-                        <a href=""><img src="./img/icons/instagram-w.png" alt="Icon Instagram" /></a>
+                        <a href="" target="_blank"><img src="./img/icons/instagram-w.png" alt="Icon Instagram" /></a>
                     </div>
                 </div>
                 <div class="flex flex-col justify-center gap-y-4 mb-4 md:mb-0 text-white">
