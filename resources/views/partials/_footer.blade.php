@@ -18,12 +18,13 @@
                     <h3 class="font-extrabold">Sitemap</h3>
                     <ul class="grid gap-y-4 underline opacity-60">
                         <li class=""><a href="#hero">Home</a></li>
-                        <li><a href="#departments">Our services</a></li>
                         <li><a href="#about">About us</a></li>
+                        <li><a href="#departments">Our services</a></li>
                     </ul>
                 </div>
                 <div class="text-white opacity-60 flex flex-col justify-center">
-                    <ul class="grid gap-y-4 underline">                       
+                    <ul class="grid gap-y-4 underline">
+                        <li><a href="#reviews">Reviews</a></li>
                         <li><a href="#contact">Contact</a></li>
                         <li><a href="#location">Location</a></li>
                     </ul>
@@ -56,8 +57,8 @@
                     <h3 class="font-extrabold">Sitemap</h3>
                     <ul class="grid gap-y-4 underline opacity-60">
                         <li class=""><a href="#hero">Home</a></li>
-                        <li><a href="#about">About us</a></li>
                         <li><a href="#departments">Our services</a></li>
+                        <li><a href="#about">About us</a></li>                        
                     </ul>
                 </div>
                 <div class="text-black opacity-60 flex flex-col justify-center">
@@ -93,13 +94,14 @@
                     <h3 class="font-extrabold">Mapa de sitio</h3>
                     <ul class="grid gap-y-4 underline opacity-60">
                         <li class=""><a href="#hero">Inicio</a></li>
-                        <li><a href="#products">Nuestro trabajo</a></li>
                         <li><a href="#about">Acerca de nosotros</a></li>
+                        <li><a href="#products">Nuestro trabajo</a></li>                        
                     </ul>
                 </div>
                 <div class="text-white opacity-60 flex flex-col justify-center">
                     <ul class="grid gap-y-4 underline">
-                        <br class="hidden md:inline-block" />                        
+                        <br class="hidden md:inline-block" />
+                        <li><a href="#reviews">Reseñas</a></li>
                         <li><a href="#contact">Contacto</a></li>
                         <li><a href="#location">Ubicación</a></li>
                         <li><a href="#faqs">Preguntas frecuentes</a></li>
@@ -133,13 +135,14 @@
                     <h3 class="font-extrabold">Mapa de sitio</h3>
                     <ul class="grid gap-y-4 underline opacity-60">
                         <li class=""><a href="#hero">Inicio</a></li>
-                        <li><a href="#products">Nuestro trabajo</a></li>
                         <li><a href="#about">Acerca de nosotros</a></li>
+                        <li><a href="#products">Nuestro trabajo</a></li>                        
                     </ul>
                 </div>
                 <div class=" opacity-60 flex flex-col justify-center">
                     <ul class="grid gap-y-4 underline">
-                        <br class="hidden md:inline-block" />                        
+                        <br class="hidden md:inline-block" />
+                        <li><a href="#reviews">Reseñas</a></li>
                         <li><a href="#contact">Contacto</a></li>
                         <li><a href="#location">Ubicación</a></li>
                         <li><a href="#faqs">Preguntas frecuentes</a></li>

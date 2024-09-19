@@ -188,7 +188,7 @@
 
 
 <!-- DEPARTAMENTOS CARD-->
-<section id="departments" class="flex items-center flex-col w-full">
+<section id="departments" class="flex items-center flex-col w-full bg-grayWhite">
 
     <div class="flex items-center flex-col w-full pt-16">
         <h2 class="font-extrabold text-3xl lg:text-5xl">Who we are</h2>
@@ -223,7 +223,7 @@
      </div>
     
     <!-- CARD 02 -->
-    <div class="flex items-center flex-col w-full bg-grayWhite">
+    <div class="flex items-center flex-col w-full bg-white">
         <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">
             <div class="md:h-64 min-w-32 w-full">
                 <img src="./img/departamentos/DD02s.png" alt="Cleaning & Maid Services" class="object-cover h-full w-full rounded-2xl" />
@@ -243,7 +243,7 @@
     </div>
 
     <!-- CARD 03 -->
-    <div class="flex items-center flex-col w-full">
+    <div class="flex items-center flex-col w-full bg-grayWhite">
         <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row">
             <div class="md:h-64 min-w-32 w-full">
                 <img src="./img/departamentos/DD03s.png" alt="Tile" class="object-cover h-full w-full rounded-2xl" />
@@ -261,7 +261,7 @@
         </div>
     </div>
     <!-- CARD 04 -->
-    <div class="flex items-center flex-col w-full">
+    <div class="flex items-center flex-col w-full bg-white">
         <div class="w-full md:w-9/12 py-10 px-4 md:px-0 max-w-[1000px] flex flex-col items-center gap-6 md:flex-row-reverse">
             <div class="md:h-64 min-w-32 w-full">
                 <img src="./img/departamentos/DD04s.png" alt="We Care About the Details" class="object-cover h-full w-full rounded-2xl" />
